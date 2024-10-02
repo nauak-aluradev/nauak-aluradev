@@ -12,7 +12,6 @@ Aqui estão os cursos que concluí na Alura, onde cada um me permitiu desenvolve
 
 - **Introdução à Computação: Ambientes e Ferramentas de Programação**
 - **Repositório Digital: Aprenda a Compartilhar Seus Projetos**
-- **Projetos com Programação: Utilizando a Criatividade através dos Códigos**
 - **Linguagem de Programação: Criando Projetos Artísticos com JavaScript**
 - **Lógica de Programação: Desenvolvendo um Jogo Estilo Pong**
 - **Funções: Desenvolvendo um Recomendador de Filmes com JavaScript**
