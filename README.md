@@ -16,8 +16,8 @@ Aqui estão os cursos que concluí na Alura, onde cada um me permitiu desenvolve
 - **Lógica de Programação: Desenvolvendo um Jogo Estilo Pong**
 - **Funções: Desenvolvendo um Recomendador de Filmes com JavaScript**
 - **Página Web: Criando um Catálogo de Vídeos com HTML e CSS**
-- **Página Web: Desenvolvendo um Site de Assinatura de Conteúdo**
 - **Algoritmos: Criando uma Aventura com HTML, CSS e JavaScript**
+- **Página Web: Desenvolvendo um Site de Assinatura de Conteúdo**
 
 ## Projetos 💻
 
